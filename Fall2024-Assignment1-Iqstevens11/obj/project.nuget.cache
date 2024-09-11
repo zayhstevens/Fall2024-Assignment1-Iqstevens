@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sga59A7Bie9Dp03u61N8Jn5XIeQwZACbtf16faVICEkw1g+qjQL7mFavoOTg2fSNOrTXBw0NXeag1i6/dtolHw==",
+  "success": true,
+  "projectFilePath": "/Users/you/Desktop/Fall2024-Assignment1-Iqstevens11/Fall2024-Assignment1-Iqstevens.csproj",
+  "expectedPackageFiles": [
+    "/Users/you/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/you/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/you/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
