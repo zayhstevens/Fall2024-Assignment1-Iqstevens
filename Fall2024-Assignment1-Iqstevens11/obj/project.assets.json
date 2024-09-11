@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/you/Desktop/Fall2024-Assignment1-Iqstevens11/Fall2024-Assignment1-Iqstevens.csproj",
+      "projectUniqueName": "/Users/you/Desktop/Test/Fall2024-Assignment1-Iqstevens/Fall2024-Assignment1-Iqstevens11/Fall2024-Assignment1-Iqstevens.csproj",
       "projectName": "Fall2024-Assignment1-Iqstevens",
-      "projectPath": "/Users/you/Desktop/Fall2024-Assignment1-Iqstevens11/Fall2024-Assignment1-Iqstevens.csproj",
+      "projectPath": "/Users/you/Desktop/Test/Fall2024-Assignment1-Iqstevens/Fall2024-Assignment1-Iqstevens11/Fall2024-Assignment1-Iqstevens.csproj",
       "packagesPath": "/Users/you/.nuget/packages/",
-      "outputPath": "/Users/you/Desktop/Fall2024-Assignment1-Iqstevens11/obj/",
+      "outputPath": "/Users/you/Desktop/Test/Fall2024-Assignment1-Iqstevens/Fall2024-Assignment1-Iqstevens11/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/you/.nuget/NuGet/NuGet.Config"
