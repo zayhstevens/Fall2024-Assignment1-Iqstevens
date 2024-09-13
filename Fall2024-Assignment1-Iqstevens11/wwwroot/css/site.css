@@ -15,8 +15,49 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: #FFCB9C;
 }
 
-h1{
-    color: blue;
+
+#title{
+    color: brown;
+    text-align: center;
+}
+
+#CoverArt{
+    border-radius: 90px;
+
+}
+
+#Rating{
+    color:brown;
+    text-align: center;
+}
+
+#Trailer{
+    background-color: red;
+    text-align: center;
+}
+
+#button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    text-decoration: none; 
+    border-radius: 5px;
+    font-size: 16px; 
+}
+
+#button:hover {
+    background-color: darkkhaki;
+}
+
+#Summary {
+    text-align: center;
+}
+
+#Actors {
+    text-align: center;
 }
