@@ -19,7 +19,7 @@ body {
 }
 
 
-#title{
+#Title{
     color: brown;
     text-align: center;
 }
@@ -56,8 +56,11 @@ body {
 
 #Summary {
     text-align: center;
+    color: brown;
 }
 
 #Actors {
     text-align: center;
+    padding-left: 40px;
+    color: brown;
 }
