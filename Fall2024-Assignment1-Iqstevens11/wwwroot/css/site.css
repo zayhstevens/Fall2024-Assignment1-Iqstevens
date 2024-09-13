@@ -21,33 +21,35 @@ body {
 
 #Title{
     color: brown;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 #CoverArt {
-    border-radius: 90px;
-    text-align: center;
+    border-radius: 50px;
+     /*text-align: center;*/
 }
 
 #Rating{
     color:brown;
-    text-align: center;
+    /* text-align: center; */
 }
 
 #Trailer{
     background-color: red;
-    text-align: center;
+    /* text-align: center; */
 }
 
 #button {
     display: inline-block;
     padding: 10px 20px;
     background-color: brown;
+    width: 100px;
     color: white;
     text-align: center;
     text-decoration: none; 
     border-radius: 5px;
     font-size: 16px; 
+    margin-top: 20px;
 }
 
 #button:hover {
@@ -55,12 +57,19 @@ body {
 }
 
 #Summary {
-    text-align: center;
+    /* text-align: center; */
     color: brown;
 }
 
 #Actors {
-    text-align: center;
+    /* text-align: center; */
     padding-left: 40px;
     color: brown;
+}
+
+#flexy{
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
 }
