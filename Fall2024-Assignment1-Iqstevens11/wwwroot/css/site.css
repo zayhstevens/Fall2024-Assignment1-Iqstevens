@@ -21,22 +21,18 @@ body {
 
 #Title{
     color: brown;
-    /*text-align: center;*/
 }
 
 #CoverArt {
     border-radius: 50px;
-     /*text-align: center;*/
 }
 
 #Rating{
     color:brown;
-    /* text-align: center; */
 }
 
 #Trailer{
-    background-color: red;
-    /* text-align: center; */
+    background-color: brown;
 }
 
 #button {
@@ -57,14 +53,13 @@ body {
 }
 
 #Summary {
-    /* text-align: center; */
     color: brown;
 }
 
 #Actors {
-    /* text-align: center; */
     padding-left: 40px;
     color: brown;
+    list-style-type: square;
 }
 
 #flexy{
